@@ -4,18 +4,18 @@
 This project analyzes hotel booking data to identify trends, patterns, and insights that enhance operational efficiency, improve customer experience, and drive revenue. The resulting dashboard will provide visual representations of key metrics, aiding stakeholders in making informed decisions.
 
 ## Table of Contents
--Purpose
--Scope
--Requirements
--Booking Patterns and Trends
--Cancellation Insights
--Customer Demographics and Composition
--Revenue and Pricing Analysis
--Operational Insights
--Channel Performance and Customer Acquisition
--Dashboard Layout
--Data Requirements
--Deliverables
+- Purpose
+- Scope
+- Requirements
+- Booking Patterns and Trends
+- Cancellation Insights
+- Customer Demographics and Composition
+- Revenue and Pricing Analysis
+- Operational Insights
+- Channel Performance and Customer Acquisition
+- Dashboard Layout
+- Data Requirements
+- Deliverables
 
 ## Purpose
 The purpose of this project is to analyze hotel booking data to uncover valuable insights related to booking patterns, cancellations, customer demographics, revenue, and operational needs.
@@ -23,12 +23,12 @@ The purpose of this project is to analyze hotel booking data to uncover valuable
 ## Scope
 This project focuses on the following key areas:
 
--Booking patterns and trends
--Cancellation insights
--Customer demographics and composition
--Revenue and pricing analysis
--Operational insights
--Channel performance and customer acquisition
+- Booking patterns and trends
+- Cancellation insights
+- Customer demographics and composition
+- Revenue and pricing analysis
+- Operational insights
+- Channel performance and customer acquisition
 
 ## Requirements
 1. Booking Patterns and Trends
