@@ -105,4 +105,22 @@ A comprehensive dashboard displaying the above metrics and insights.
 A report summarizing the findings and key recommendations based on the analysis.
 Documentation outlining the data sources, methodologies used, and any assumptions made during the analysis.
 
+## process
+1. Data collection
+2. Data cleaning
+   - Remove Duplicate data
+   - Remove blank rows
+   - Remove unwanted rows
+   - Remove outliers
+  3. Data analysis
+     - Create a calculated columns
+     - Create a calculated pivot field
+     - Create a pivot table
+  4. Visualization
+     - Create a dynamic dashboard
+  5. Report
+     - Create a Report about what is going on in the data
+     - Report assumputions and recommendation
+     - Create a slide 
+
 Dataset from: [kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
